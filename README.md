@@ -7,5 +7,5 @@ It uses:
 - [next.js](https://nextjs.org/) with [TypeScript](https://www.typescriptlang.org/)
 - [@testing-library/react](https://testing-library.com/docs/react-testing-library/intro)
 - [prettier](https://prettier.io/)
-- [tailwindcss](https://tailwindcss.com/)
+- [emotion](https://emotion.sh/docs/introduction)
 - [swr](https://swr.vercel.app/)

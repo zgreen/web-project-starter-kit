@@ -1,6 +1,7 @@
+import React from "react";
 import Head from "next/head";
 
-export const Page = ({ children }) => (
+export const Page: React.FC<{ children: React.ReactNode }> = ({ children }) => (
   <>
     <Head>
       <title>Create Next App</title>
