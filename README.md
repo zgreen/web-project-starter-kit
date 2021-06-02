@@ -16,4 +16,23 @@ It uses:
 git clone git@github.com:zgreen/web-project-starter-kit.git my-app
 cd my-app
 npm i
+npm run dev
+```
+
+## Start in production
+
+```sh
+npm run start
+```
+
+## TypeScript checks
+
+```sh
+npm run tsc
+```
+
+## Run tests
+
+```sh
+npm run test
 ```
