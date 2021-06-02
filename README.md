@@ -9,3 +9,11 @@ It uses:
 - [prettier](https://prettier.io/)
 - [emotion](https://emotion.sh/docs/introduction)
 - [swr](https://swr.vercel.app/)
+
+## Use it
+
+```sh
+git clone git@github.com:zgreen/web-project-starter-kit.git my-app
+cd my-app
+npm i
+```
